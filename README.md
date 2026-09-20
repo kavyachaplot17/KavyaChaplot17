@@ -54,4 +54,4 @@ Weather application using APIs to provide weather information based on location.
 
 ## 📫 Connect With Me
 
-[LinkedIn](linkedin.com/in/kavya-chaplot-30a27828b )
+[LinkedIn](https://www.linkedin.com/in/kavya-chaplot-30a27828b/ )
